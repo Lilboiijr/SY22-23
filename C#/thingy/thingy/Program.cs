@@ -20,12 +20,15 @@ namespace thingy
                correct=correct+1;
             }
             Console.WriteLine("how old is mr clarke A.51 b. 43 c. 96");
-            string anwser = Console.ReadLine();
-            if (anwser == "A") 
+           anwser = Console.ReadLine();
+            if (anwser == "A")
+                correct = correct + 1;
             Console.WriteLine("is elije striaght A. false b. true");
-            if (anwser == "A") 
-            
-            
+            anwser = Console.ReadLine();
+            if (anwser == "A")
+                correct = correct + 1;
+            Console.WriteLine($"you got {correct} right ");
+
 
             Console.ReadKey();
         }
