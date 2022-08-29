@@ -45,9 +45,9 @@ namespace thingy
             if (answer.Equals(correct))
             {
                 Console.WriteLine("you got it correct");
-            } 
+            }
+            //
             
-
         }
     }
 }
