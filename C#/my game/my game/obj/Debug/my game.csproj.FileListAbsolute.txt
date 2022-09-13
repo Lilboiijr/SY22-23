@@ -1,0 +1,11 @@
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\bin\Debug\my game.exe.config
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\bin\Debug\my game.exe
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\bin\Debug\my game.pdb
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my game.csproj.AssemblyReference.cache
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my game.csproj.SuggestedBindingRedirects.cache
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my_game.Form1.resources
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my game.csproj.GenerateResource.cache
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my game.csproj.CoreCompileInputs.cache
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my game.exe
+C:\Users\cbbre529\Documents\SY22-23\C#\my game\my game\obj\Debug\my game.pdb
